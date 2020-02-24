@@ -1,0 +1,10 @@
+# comment
+
+#User-specific
+*.suo
+*.user
+
+#Build
+[Dd]ebug/
+[Rr]elease/
+x64/
